@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Cristina and I am a curently a computer science student at faculty of Babes-Bolyai and also a software developer at Nexttech.
 
