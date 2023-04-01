@@ -9,13 +9,6 @@ When it comes to coding, I pride myself on my attention to detail and my ability
 
 With my educational background and my programming skills, I am excited to explore new opportunities in the IT field and to make a meaningful contribution to any team I join.
 
-## Personal skills and abilities 🤩
-* Organized
-* Motivated
-* Open-minded
-* Communicative
-* Analytical thinking
-
 ## More about me 🥰
 - 🔭 I’m currently working on finishing collage 🎓
 - 🌱 I’m currently learning Magento 💻
