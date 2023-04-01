@@ -14,3 +14,5 @@ With my educational background and my programming skills, I am excited to explor
 - I’m currently learning Magento 💻
 - How to reach me: hognogicristina@gmail.com 📧
 - Fun fact: I love cats 😻 and ballet 💃
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hognogicristina&theme=tokyonight&exclude_repo=andreeailie516.github.io&langs_count=8&hide=Assembly,Makefile&layout=compact)
