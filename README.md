@@ -11,7 +11,7 @@ With my educational background and my programming skills, I am excited to explor
 ## More about me 🥰
 - I’m currently working on getting my college degree 🎓
 - I'm a former Magento Developer at Nexttech 💻
-- I'm currently working as a DevOps Developer at Accenture 👩🏻‍💻
+- I'm a former DevOps Developer at Accenture 👩🏻‍💻
 - How to reach me: hognogicristina@gmail.com 📧
 - Fun fact: I love cats 😻 and ballet 💃
 
