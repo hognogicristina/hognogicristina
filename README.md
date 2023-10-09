@@ -11,7 +11,7 @@ With my educational background and my programming skills, I am excited to explor
 ## More about me 🥰
 - I’m currently working on getting my college degree 🎓
 - I'm a former Magento Developer Intern at Nexttech 💻
-- I'm a former Cloud Developer Intern at Accenture 👩🏻‍💻
+- I'm currently working as a Cloud Developer Junior at Accenture 👩🏻‍💻
 - How to reach me: hognogicristina@gmail.com 📧
 - Fun fact: I love cats 😻 and ballet 💃
 
