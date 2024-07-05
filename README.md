@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Cristina and I am a curently a computer science student at faculty of Babes-Bolyai.
+My name is Cristina and I am passionate in Computer Science.
 ## Personal Statement 🤓
 As a hardworking and motivated student in the IT industry, I am passionate about using my skills to solve complex problems. With an advanced knowledge of mathematics, I am able to approach any challenge with a strategic and analytical mindset.
 
@@ -9,7 +9,7 @@ When it comes to coding, I pride myself on my attention to detail and my ability
 With my educational background and my programming skills, I am excited to explore new opportunities in the IT field and to make a meaningful contribution to any team I join.
 
 ## More about me 🥰
-- I’m currently working on getting my college degree 🎓
+- I recently graduated from college with a degree in Computer Science. 🎓
 - I'm a former Magento Developer Intern at Nexttech 💻
 - I'm currently working as a Cloud Developer Junior at Accenture 👩🏻‍💻
 - How to reach me: hognogicristina@gmail.com 📧
