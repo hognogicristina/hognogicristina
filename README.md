@@ -9,7 +9,7 @@ When it comes to coding, I pride myself on my attention to detail and my ability
 With my educational background and my programming skills, I am excited to explore new opportunities in the IT field and to make a meaningful contribution to any team I join.
 
 ## More about me 🥰
-- I'm currently working as a Cloud Developer Junior at Accenture 👩🏻‍💻
+- I'm currently working as a Cloud Computing & Big Data Junior at Accenture 👩🏻‍💻
 - I'm a former Magento Developer Intern at Nexttech 💻
 - I recently graduated from college with a degree in Computer Science. 🎓
 - I am now pursuing a Master's degree in Database Management. 📊
