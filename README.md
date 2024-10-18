@@ -10,7 +10,6 @@ With my educational background and my programming skills, I am excited to explor
 
 ## More about me 🥰
 - I'm currently working as a Cloud Computing & Big Data Junior at Accenture 👩🏻‍💻
-- I'm a former Magento Developer Intern at Nexttech 💻
 - I recently graduated from college with a degree in Computer Science. 🎓
 - I am now pursuing a Master's degree in Database Management. 📊
 - How to reach me: hognogicristina@gmail.com 📧
