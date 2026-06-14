@@ -1,17 +1,20 @@
 # Hi there 👋
 
-My name is Cristina and I am passionate in Computer Science.
+My name is Cristina and I am a Software Product & Platform Engineering Analyst with a background in Computer Science, databases, cloud technologies and data engineering.
+
 ## Personal Statement 🤓
-As a hardworking and motivated student in the IT industry, I am passionate about using my skills to solve complex problems. With an advanced knowledge of mathematics, I am able to approach any challenge with a strategic and analytical mindset.
 
-When it comes to coding, I pride myself on my attention to detail and my ability to work quickly and efficiently. I take my responsibilities seriously and strive for excellence in everything that I do.
+I am a motivated and detail-oriented IT professional with experience in Python, AWS, Terraform, SQL, Big Data and cloud-based technologies. I hold a Bachelor's degree in Computer Science and a Master's degree in Databases, which helped me build a strong foundation in data modeling, database systems, query optimization and data-driven software solutions.
 
-With my educational background and my programming skills, I am excited to explore new opportunities in the IT field and to make a meaningful contribution to any team I join.
+I enjoy working on scalable software and data-related systems, solving technical problems and continuously improving my skills. I am passionate about cloud computing, data engineering and building reliable solutions that can support real-world business needs.
 
 ## More about me 🥰
-- I'm currently working as a Cloud Computing & Big Data Junior at Accenture 👩🏻‍💻
-- I recently graduated from college with a degree in Computer Science. 🎓
-- I am now pursuing a Master's degree in Database Management. 📊
+
+- I'm currently working as a Software Product & Platform Engineering Analyst at Accenture 👩🏻‍💻
+- I hold a Bachelor's degree in Computer Science 🎓
+- I hold a Master's degree in Databases 📊
+- I have experience with Python, AWS, Terraform, SQL, Big Data, JavaScript, React, Apache Kafka and PostgreSQL 💻
+- I am AWS Certified Cloud Practitioner ☁️
 - How to reach me: hognogicristina@gmail.com 📧
 - Fun fact: I love cats 😻 and ballet 💃
 
